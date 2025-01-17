@@ -1,3 +1,3 @@
-module github.com/heyeshuang/hugo-theme-tokiwa
+module github.com/Mundo-Dolphins/hugo-theme-tokiwa
 
 go 1.20
